@@ -1,4 +1,4 @@
 # web-dev-practice
-this is the first git Repository
-<b>
+this is the first git Repository.
+<br>
 Author - NirajJoshi 
